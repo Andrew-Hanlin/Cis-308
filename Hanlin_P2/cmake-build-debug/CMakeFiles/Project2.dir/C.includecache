@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrew/CLionProjects/Project2/linkedlist.h
+
+C:/Users/Andrew/CLionProjects/Project2/main.c
+stdio.h
+-
+stdlib.h
+-
+linkedlist.h
+C:/Users/Andrew/CLionProjects/Project2/linkedlist.h
+
